@@ -25,6 +25,7 @@
 .time {
     font-size: 20vw;
     font-family: "cloct";
+    cursor: pointer;
 }
 
 .main p {
